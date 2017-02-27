@@ -1,0 +1,75 @@
+.page{
+ background-color:  rgb(104, 187, 285);
+ max-width: 650px;
+ margin: 0 auto;
+ padding: 1%;
+}
+div, .picture{
+  border: 1px solid rgb(158, 176, 189)
+}
+p, ul{
+  font-size:0.8em;
+  font-family: calibri;
+}
+h1, h2, h3{
+  font-family: calibri
+}
+.header{
+  background-color:  rgb(128, 193, 229);
+  height: 30px;
+  text-align: center;
+  padding-bottom: 10%;
+  margin-bottom: 2%
+}
+.container{
+  background-color:  rgb(128, 193, 229);
+  padding: 2%
+}
+.left-box{
+  background-color: rgb(90, 166, 209);
+  color: white;
+  width: 30%;
+  padding: 5px;
+  height: 890px
+}
+.picture{
+  width: 100%;
+}
+.right-box{
+  background-color: rgb(90, 166, 209);
+  width: 60%;
+  float: right;
+  margin-top: -900px;
+  padding: 3%;
+  height: 870px;
+  
+}
+.experiences-box{
+  background-color: rgb(43, 110, 149);
+  padding: 2%;
+  margin-bottom: 2%
+}
+.experience{
+  background-color: rgb(19, 61, 86);
+  color: white;
+  padding: 2%;
+  margin-bottom: 2%;
+}
+.studies-box{
+  background-color: rgb(43, 110, 149);
+    padding: 2%
+}  
+.study{
+  background-color: rgb(19, 61, 86);
+  color: white;
+  padding: 2%;
+  margin-bottom: 2%;
+}
+  .footer{
+    background-color: rgb(90, 166, 209);
+    text-align: center;
+    margin-top: 2%;
+    width: 100%;
+    height: 45px
+   
+}st
